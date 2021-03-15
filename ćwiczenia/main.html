@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>HTML basics</title>
+    </head>
+	<body>
+		
+			<script type="text/javascript">
+			var srednia = 0;
+			var ile = prompt("Podaj ilość liczb");
+
+			for (var i=1; i<=ile; i++) {
+			var b = parseInt(prompt("Podaj "+i+" liczbe"));
+
+			if(b > 6 || b < 1) {
+			console.log('liczba: ' + b + ' jest niepoprawna');
+			continue;
+			}
+
+			srednia = srednia + b;
+
+			}
+			document.write(srednia/ile)
+			</script>
+    </body>
+</html>
