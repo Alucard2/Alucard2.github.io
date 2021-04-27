@@ -6,7 +6,7 @@
     <meta charset="UTF-8"/>
     <meta name="description" content="Portal poświęcony rozwiązywaniu wszelakich działań matematycznych. Wejdź i sam przetestuj!"/>
     <meta name="keywords" content="działania, matematyczne, działania matematyczne, rozwiązanie, zadania, matematyka, kalkulator, przelicznik, narzędzie, proste, dodawanie, odejmowanie, mnożenie, dzielenie, potęgowanie"/>
-    <meta name="author" content="Wojtek"/>
+    <meta name="author" content="nawrot"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <title>Potęgowanie</title>
     <meta http-equiv="X-UE-Compatible" content="IE=edge,chrome=1"/> 
